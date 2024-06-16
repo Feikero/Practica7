@@ -1,4 +1,5 @@
- #include "AudioGeneratorAAC.h" 
+#include <Arduino.h>
+#include "AudioGeneratorAAC.h" 
 #include "AudioOutputI2S.h" 
 #include "AudioFileSourcePROGMEM.h" 
 #include "sampleaac.h" 
